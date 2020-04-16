@@ -1,0 +1,14 @@
+*~
+.\#*
+\#*#
+
+__pycache__/
+venv/
+*.ctx
+.idea /
+build/
+dist/
+
+/__pycache__
+/venv
+/.idea
